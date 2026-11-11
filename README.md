@@ -1,9 +1,9 @@
 
-Code description: OctProcessing.zip contains the source code of this paper, which can be run directly.
+Code description: The code package OctProcessing.zip contains the implementation code for the method proposed in this paper, which can be downloaded and run directly to reproduce the relevant experiments. 
 
-Experimental data description: 1-90.zip stores the fusion and registration results of 90 cases of ophthalmic multimodal data using the proposed method.
+Experimental data description: The compressed file 1-90.zip includes 90 cases of ophthalmic multimodal images, which are the output results after fusion and registration using the algorithm in this paper.
 
-Dataset availability: The ophthalmic multimodal dataset used in this study is available for free. Please contact us by email if needed.
+Dataset availability:  The ophthalmic multimodal dataset used in this study is freely available. Interested researchers may contact the authors via email to obtain it.
 
 
 
